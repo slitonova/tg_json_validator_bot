@@ -2,7 +2,7 @@
 
 > **Статус проекта:**
 >
-> 🟢 Поддерживается (активный) 
+> 🟢 Не поддерживается 
 
 ## Цели и Задачи
 Помочь тестировщику быстрее проверить JSON на нарушение синтаксиса
@@ -15,15 +15,15 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/menu.png)
+![image](https://raw.githubusercontent.com/slitonova/tg_json_validator_bot/refs/heads/main/Start.png)
 
 После отправки JSON c ошибкой:
 
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/syntax.png)
+![image](https://raw.githubusercontent.com/slitonova/tg_json_validator_bot/refs/heads/main/error.png)
 
 Пример работы бьютифаера:
 
-![image](https://raw.githubusercontent.com/German-D/tg_json/main/static/beautifaer.png)
+![image](https://raw.githubusercontent.com/slitonova/tg_json_validator_bot/refs/heads/main/new.png)
 
 
 ## 💻 Технологии
@@ -61,4 +61,4 @@ python3 json_bot.py
 
 ## Автор
 
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+Светлана Литонова ([@slitonova](https://t.me/slitonova))
